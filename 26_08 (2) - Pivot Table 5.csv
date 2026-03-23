@@ -1,0 +1,68 @@
+product_category,product_type,product_detail,SUM of transaction_qty
+,,,144
+, Total,,144
+ Total,,,144
+Bakery,Biscotti,Chocolate Chip Biscotti,1
+,,Ginger Biscotti,2
+,,Hazelnut Biscotti,2
+,Biscotti Total,,5
+,Pastry,Chocolate Croissant,2
+,Pastry Total,,2
+,Scone,Cranberry Scone,1
+,,Ginger Scone,1
+,,Jumbo Savory Scone,2
+,,Oatmeal Scone,2
+,,Scottish Cream Scone,1
+,Scone Total,,7
+Bakery Total,,,14
+Coffee,Barista Espresso,Cappuccino,9
+,,Cappuccino Lg,5
+,,Espresso shot,4
+,,Latte,2
+,,Latte Rg,1
+,,Ouro Brasileiro shot,2
+,Barista Espresso Total,,23
+,Drip coffee,Our Old Time Diner Blend Lg,2
+,,Our Old Time Diner Blend Rg,4
+,,Our Old Time Diner Blend Sm,3
+,Drip coffee Total,,9
+,Gourmet brewed coffee,Columbian Medium Roast Rg,2
+,,Columbian Medium Roast Sm,2
+,,Ethiopia Lg,4
+,,Ethiopia Rg,7
+,Gourmet brewed coffee Total,,15
+,Organic brewed coffee,Brazilian Lg,2
+,,Brazilian Rg,3
+,,Brazilian Sm,4
+,Organic brewed coffee Total,,9
+,Premium brewed coffee,Jamaican Coffee River Lg,6
+,,Jamaican Coffee River Rg,2
+,,Jamaican Coffee River Sm,1
+,Premium brewed coffee Total,,9
+Coffee Total,,,65
+Drinking Chocolate,Hot chocolate,Dark chocolate Lg,6
+,,Dark chocolate Rg,4
+,,Sustainably Grown Organic Lg,3
+,,Sustainably Grown Organic Rg,3
+,Hot chocolate Total,,16
+Drinking Chocolate Total,,,16
+Tea,Brewed Black tea,Earl Grey Lg,3
+,,Earl Grey Rg,1
+,,English Breakfast Rg,1
+,Brewed Black tea Total,,5
+,Brewed Chai tea,Morning Sunrise Chai Lg,1
+,,Morning Sunrise Chai Rg,5
+,,Spicy Eye Opener Chai Lg,5
+,,Spicy Eye Opener Chai Rg,9
+,,Traditional Blend Chai Lg,1
+,Brewed Chai tea Total,,21
+,Brewed Green tea,Serenity Green Tea Lg,7
+,,Serenity Green Tea Rg,1
+,Brewed Green tea Total,,8
+,Brewed herbal tea,Lemon Grass Lg,5
+,,Lemon Grass Rg,1
+,,Peppermint Lg,8
+,,Peppermint Rg,1
+,Brewed herbal tea Total,,15
+Tea Total,,,49
+Grand Total,,,288
