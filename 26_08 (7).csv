@@ -1,0 +1,1001 @@
+transaction_date,Day_name,Month_name,purchase_time,time_backets,Number_of_sales,Number_of_products,Number_of_stores,revanue_per_day,store_location,product_category,product_detail
+2023-01-01,Sun,Jan,07:06:11,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,07:08:56,O1.morning,1,1,1,6.2,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,07:14:04,O1.morning,1,1,1,9,Lower Manhattan,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,07:20:24,O1.morning,1,1,1,2,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,07:22:41,O1.morning,1,1,1,6.2,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,07:22:41,O1.morning,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-01,Sun,Jan,07:25:49,O1.morning,1,1,1,2,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,07:33:34,O1.morning,1,1,1,4,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,07:39:13,O1.morning,1,1,1,4.25,Lower Manhattan,Coffee,Latte Rg
+2023-01-01,Sun,Jan,07:39:34,O1.morning,1,1,1,7,Lower Manhattan,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,07:43:05,O1.morning,1,1,1,2.55,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,07:44:35,O1.morning,1,1,1,7,Lower Manhattan,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,07:45:51,O1.morning,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,07:48:19,O1.morning,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,07:52:36,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-01,Sun,Jan,07:59:58,O1.morning,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,07:59:58,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,08:00:18,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,08:00:39,O1.morning,1,1,1,9,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,08:11:45,O1.morning,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,08:17:27,O1.morning,1,1,1,7,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,08:24:26,O1.morning,1,1,1,5.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,08:24:26,O1.morning,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,08:29:38,O1.morning,1,1,1,2.55,Hell's Kitchen,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,08:31:23,O1.morning,1,1,1,3.75,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,08:33:08,O1.morning,1,1,1,3,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,08:33:08,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,08:35:03,O1.morning,1,1,1,6,Lower Manhattan,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,08:35:03,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,08:41:57,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,08:52:03,O1.morning,1,1,1,3.75,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,08:52:32,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,08:54:33,O1.morning,1,1,1,7,Lower Manhattan,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,08:56:27,O1.morning,1,1,1,5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,08:57:46,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,08:58:55,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,09:00:12,O1.morning,1,1,1,4,Lower Manhattan,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,09:00:24,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,09:07:13,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,09:08:09,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,09:08:13,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,09:10:30,O1.morning,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,09:10:30,O1.morning,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,09:11:06,O1.morning,1,1,1,2.55,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,09:11:06,O1.morning,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-01,Sun,Jan,09:13:01,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,09:13:15,O1.morning,1,1,1,5.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,09:14:16,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,09:14:17,O1.morning,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,09:14:25,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,09:14:41,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,09:15:09,O1.morning,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,09:15:13,O1.morning,1,1,1,6,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,09:19:21,O1.morning,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,09:19:26,O1.morning,1,1,1,4.5,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,09:21:08,O1.morning,1,1,1,3.75,Lower Manhattan,Coffee,Latte
+2023-01-01,Sun,Jan,09:22:17,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,09:22:46,O1.morning,1,1,1,2.45,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,09:29:56,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,09:29:56,O1.morning,1,1,1,3.5,Hell's Kitchen,Bakery,Ginger Biscotti
+2023-01-01,Sun,Jan,09:29:57,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,09:34:17,O1.morning,1,1,1,8.5,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,09:40:13,O1.morning,1,1,1,4.25,Lower Manhattan,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,09:41:22,O1.morning,1,1,1,6,Lower Manhattan,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,09:41:22,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,09:44:20,O1.morning,1,1,1,5,Lower Manhattan,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,09:44:46,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,09:46:46,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-01,Sun,Jan,09:47:40,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,09:50:44,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-01,Sun,Jan,09:50:44,O1.morning,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,09:52:58,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,09:53:28,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,09:53:44,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,09:53:44,O1.morning,1,1,1,3.25,Hell's Kitchen,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,09:53:49,O1.morning,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,09:54:46,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,09:55:16,O1.morning,1,1,1,6,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,09:56:30,O1.morning,1,1,1,2,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,10:00:39,O1.morning,1,1,1,6,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,10:03:55,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,10:14:49,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,10:14:49,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,10:16:30,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,10:16:33,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,10:18:14,O1.morning,1,1,1,8.5,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,10:18:52,O1.morning,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,10:19:42,O1.morning,1,1,1,5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,10:24:19,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,10:25:22,O1.morning,1,1,1,5.1,Hell's Kitchen,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,10:25:45,O1.morning,1,1,1,7,Lower Manhattan,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,10:25:45,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Ginger Biscotti
+2023-01-01,Sun,Jan,10:27:48,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,10:30:07,O1.morning,1,1,1,3.1,Lower Manhattan,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,10:30:07,O1.morning,1,1,1,3.25,Lower Manhattan,Bakery,Cranberry Scone
+2023-01-01,Sun,Jan,10:35:47,O1.morning,1,1,1,3.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,10:41:53,O1.morning,1,1,1,4.5,Lower Manhattan,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,10:47:53,O1.morning,1,1,1,7.5,Lower Manhattan,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,10:49:13,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,10:49:51,O1.morning,1,1,1,9.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,10:51:17,O1.morning,1,1,1,3,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,10:52:44,O1.morning,1,1,1,5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,10:52:44,O1.morning,1,1,1,3.75,Hell's Kitchen,Bakery,Almond Croissant
+2023-01-01,Sun,Jan,10:56:14,O1.morning,1,1,1,3.75,Lower Manhattan,Coffee,Latte
+2023-01-01,Sun,Jan,10:56:14,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,11:01:48,O1.morning,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,11:01:58,O1.morning,1,1,1,3.75,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,11:01:58,O1.morning,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-01,Sun,Jan,11:03:25,O1.morning,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,11:03:25,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,11:04:32,O1.morning,1,1,1,8.5,Hell's Kitchen,Coffee,Latte Rg
+2023-01-01,Sun,Jan,11:08:11,O1.morning,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,11:08:59,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,11:09:01,O1.morning,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,11:10:21,O1.morning,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,11:10:21,O1.morning,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,11:10:58,O1.morning,1,1,1,2.5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,11:12:29,O1.morning,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,11:16:02,O1.morning,1,1,1,6,Astoria,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,11:21:00,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,11:21:04,O1.morning,1,1,1,6,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,11:21:14,O1.morning,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,11:23:01,O1.morning,1,1,1,2.2,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,11:23:43,O1.morning,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,11:23:43,O1.morning,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-01,Sun,Jan,11:25:35,O1.morning,1,1,1,6,Astoria,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,11:25:37,O1.morning,1,1,1,7.5,Lower Manhattan,Coffee,Cappuccino
+2023-01-01,Sun,Jan,11:28:15,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,11:28:29,O1.morning,1,1,1,7,Astoria,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,11:29:25,O1.morning,1,1,1,5.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,11:29:57,O1.morning,1,1,1,6.2,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,11:29:57,O1.morning,1,1,1,4.5,Hell's Kitchen,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,11:30:22,O1.morning,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,11:31:35,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,11:31:43,O1.morning,1,1,1,6,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,11:31:43,O1.morning,1,1,1,3.25,Lower Manhattan,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,11:31:53,O1.morning,1,1,1,5,Lower Manhattan,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,11:31:53,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,11:39:14,O1.morning,1,1,1,3.75,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,11:39:14,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,11:40:26,O1.morning,1,1,1,5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,11:43:57,O1.morning,1,1,1,4.4,Astoria,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,11:44:09,O1.morning,1,1,1,3.75,Lower Manhattan,Coffee,Latte
+2023-01-01,Sun,Jan,11:47:13,O1.morning,1,1,1,3,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,11:48:56,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,11:49:42,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,11:49:42,O1.morning,1,1,1,3.25,Hell's Kitchen,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,11:50:16,O1.morning,1,1,1,6,Astoria,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,11:50:23,O1.morning,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,11:50:58,O1.morning,1,1,1,6,Lower Manhattan,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,11:51:30,O1.morning,1,1,1,7,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,11:52:31,O1.morning,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,11:57:17,O1.morning,1,1,1,6,Astoria,Coffee,Espresso shot
+2023-01-01,Sun,Jan,11:57:59,O1.morning,1,1,1,2.5,Astoria,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,11:57:59,O1.morning,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,11:58:15,O1.morning,1,1,1,7.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,12:00:20,O2.afternoon,1,1,1,2.5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,12:01:00,O2.afternoon,1,1,1,6,Astoria,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,12:01:20,O2.afternoon,1,1,1,6.2,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,12:01:20,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-01,Sun,Jan,12:03:09,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,12:03:38,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,12:03:43,O2.afternoon,1,1,1,2.5,Astoria,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,12:04:22,O2.afternoon,1,1,1,7,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,12:05:31,O2.afternoon,1,1,1,5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,12:06:29,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,12:07:42,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,12:08:21,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,12:08:36,O2.afternoon,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,12:09:11,O2.afternoon,1,1,1,4,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,12:09:12,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,12:13:07,O2.afternoon,1,1,1,7.5,Lower Manhattan,Coffee,Latte
+2023-01-01,Sun,Jan,12:14:26,O2.afternoon,1,1,1,6.2,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,12:17:38,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,12:18:07,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,12:18:44,O2.afternoon,1,1,1,6,Astoria,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,12:20:16,O2.afternoon,1,1,1,7.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,12:23:39,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,12:27:06,O2.afternoon,1,1,1,8.5,Lower Manhattan,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,12:30:46,O2.afternoon,1,1,1,5,Astoria,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,12:30:49,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,12:33:20,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,12:33:35,O2.afternoon,1,1,1,5,Astoria,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,12:35:53,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,12:36:57,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,12:38:28,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,12:42:26,O2.afternoon,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,12:44:01,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,12:44:31,O2.afternoon,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,12:44:32,O2.afternoon,1,1,1,2.5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,12:45:52,O2.afternoon,1,1,1,4,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,12:46:22,O2.afternoon,1,1,1,2.55,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,12:46:26,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,12:46:55,O2.afternoon,1,1,1,3.5,Astoria,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,12:46:55,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-01,Sun,Jan,12:48:08,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,12:49:48,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,12:50:15,O2.afternoon,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,12:50:28,O2.afternoon,1,1,1,6,Astoria,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,12:51:21,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,12:51:57,O2.afternoon,1,1,1,4.75,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,12:51:57,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,12:52:18,O2.afternoon,1,1,1,2.55,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,12:52:18,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,12:53:11,O2.afternoon,1,1,1,5,Hell's Kitchen,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,12:53:59,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Espresso shot
+2023-01-01,Sun,Jan,12:55:25,O2.afternoon,1,1,1,3,Astoria,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,12:55:27,O2.afternoon,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,12:55:27,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,12:55:36,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,12:55:53,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,12:56:33,O2.afternoon,1,1,1,4.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,12:56:59,O2.afternoon,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,12:58:54,O2.afternoon,1,1,1,5,Astoria,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,12:59:06,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,13:00:38,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,13:01:33,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,13:02:40,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,13:02:40,O2.afternoon,1,1,1,4.5,Hell's Kitchen,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,13:02:52,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,13:03:13,O2.afternoon,1,1,1,6,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,13:04:01,O2.afternoon,1,1,1,4.4,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,13:04:01,O2.afternoon,1,1,1,3.25,Hell's Kitchen,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,13:04:22,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,13:04:37,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,13:04:51,O2.afternoon,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,13:05:56,O2.afternoon,1,1,1,3.5,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,13:07:37,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,13:09:03,O2.afternoon,1,1,1,3.1,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,13:12:03,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,13:13:09,O2.afternoon,1,1,1,3.75,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,13:17:30,O2.afternoon,1,1,1,2.55,Hell's Kitchen,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,13:17:32,O2.afternoon,1,1,1,8,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,13:18:34,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,13:19:09,O2.afternoon,1,1,1,4,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,13:19:09,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Bakery,Croissant
+2023-01-01,Sun,Jan,13:19:36,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,13:19:56,O2.afternoon,1,1,1,4.4,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,13:20:51,O2.afternoon,1,1,1,6.2,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,13:21:23,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,13:22:11,O2.afternoon,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,13:22:45,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,13:23:54,O2.afternoon,1,1,1,7,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,13:24:29,O2.afternoon,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,13:30:49,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,13:32:07,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,13:32:34,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-01,Sun,Jan,13:34:12,O2.afternoon,1,1,1,4,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,13:38:09,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,13:38:11,O2.afternoon,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,13:39:41,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,13:40:47,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,13:41:09,O2.afternoon,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,13:42:10,O2.afternoon,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,13:42:49,O2.afternoon,1,1,1,3.75,Lower Manhattan,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,13:42:58,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,13:42:58,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,13:43:18,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,13:43:18,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,13:43:41,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,13:44:26,O2.afternoon,1,1,1,3.1,Astoria,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,13:47:51,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,13:49:03,O2.afternoon,1,1,1,4,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,13:50:09,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,13:50:47,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,13:51:56,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,13:53:04,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,13:53:31,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,13:54:18,O2.afternoon,1,1,1,4,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,13:55:04,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,13:55:50,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,13:56:15,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,13:56:24,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,13:57:34,O2.afternoon,1,1,1,7,Lower Manhattan,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,13:57:34,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,13:58:10,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,13:58:11,O2.afternoon,1,1,1,2.45,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,13:59:58,O2.afternoon,1,1,1,8.5,Lower Manhattan,Coffee,Latte Rg
+2023-01-01,Sun,Jan,14:03:34,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,14:03:34,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,14:03:41,O2.afternoon,1,1,1,3,Astoria,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,14:07:12,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,14:07:56,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,14:08:03,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,14:08:03,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,14:11:14,O2.afternoon,1,1,1,7.5,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,14:13:28,O2.afternoon,1,1,1,6.2,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,14:19:57,O2.afternoon,1,1,1,5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,14:20:06,O2.afternoon,1,1,1,6.2,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,14:20:08,O2.afternoon,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,14:22:01,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,14:22:38,O2.afternoon,1,1,1,8.5,Lower Manhattan,Coffee,Latte Rg
+2023-01-01,Sun,Jan,14:23:28,O2.afternoon,1,1,1,4,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,14:23:28,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,14:24:55,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,14:24:55,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,14:25:32,O2.afternoon,1,1,1,7,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,14:25:39,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,14:26:36,O2.afternoon,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,14:29:05,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,14:29:50,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,14:29:50,O2.afternoon,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,14:30:51,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,14:30:58,O2.afternoon,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,14:31:26,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,14:32:20,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,14:32:42,O2.afternoon,1,1,1,8.5,Lower Manhattan,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,14:32:54,O2.afternoon,1,1,1,8.5,Hell's Kitchen,Coffee,Latte Rg
+2023-01-01,Sun,Jan,14:35:47,O2.afternoon,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,14:36:23,O2.afternoon,1,1,1,6,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,14:36:35,O2.afternoon,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,14:37:48,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,14:39:06,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-01,Sun,Jan,14:39:48,O2.afternoon,1,1,1,4.9,Hell's Kitchen,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,14:42:39,O2.afternoon,1,1,1,9.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,14:43:13,O2.afternoon,1,1,1,5,Astoria,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,14:45:31,O2.afternoon,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,14:46:09,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,14:47:29,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,14:47:29,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Bakery,Croissant
+2023-01-01,Sun,Jan,14:49:49,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,14:51:19,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,14:55:34,O2.afternoon,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,14:58:07,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,14:58:35,O2.afternoon,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,15:02:04,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Latte Rg
+2023-01-01,Sun,Jan,15:02:28,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,15:06:27,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,15:08:28,O2.afternoon,1,1,1,6,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,15:09:37,O2.afternoon,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,15:09:54,O2.afternoon,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,15:10:10,O2.afternoon,1,1,1,3.75,Lower Manhattan,Coffee,Cappuccino
+2023-01-01,Sun,Jan,15:10:10,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,15:12:22,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,15:12:54,O2.afternoon,1,1,1,5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,15:14:19,O2.afternoon,1,1,1,6,Astoria,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,15:16:37,O2.afternoon,1,1,1,7.5,Lower Manhattan,Coffee,Latte
+2023-01-01,Sun,Jan,15:18:56,O2.afternoon,1,1,1,4.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,15:19:34,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,15:21:05,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,15:22:11,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Latte Rg
+2023-01-01,Sun,Jan,15:24:01,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,15:25:09,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,15:27:11,O2.afternoon,1,1,1,7,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,15:28:29,O2.afternoon,1,1,1,3.5,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,15:28:54,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,15:29:24,O2.afternoon,1,1,1,3.1,Astoria,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,15:29:24,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Cranberry Scone
+2023-01-01,Sun,Jan,15:30:16,O2.afternoon,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,15:30:27,O2.afternoon,1,1,1,4.4,Astoria,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,15:30:58,O2.afternoon,1,1,1,2.45,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,15:30:58,O2.afternoon,1,1,1,5,Hell's Kitchen,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,15:33:36,O2.afternoon,1,1,1,4,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,15:33:36,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Ginger Biscotti
+2023-01-01,Sun,Jan,15:34:10,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,15:34:10,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,15:36:59,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-01,Sun,Jan,15:39:44,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,15:42:20,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,15:45:16,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,15:46:34,O2.afternoon,1,1,1,7.5,Lower Manhattan,Coffee,Cappuccino
+2023-01-01,Sun,Jan,15:51:15,O2.afternoon,1,1,1,6.2,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,15:52:23,O2.afternoon,1,1,1,8.5,Lower Manhattan,Coffee,Latte Rg
+2023-01-01,Sun,Jan,15:52:23,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,15:53:55,O2.afternoon,1,1,1,7,Lower Manhattan,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,15:55:45,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,15:55:50,O2.afternoon,1,1,1,4.4,Astoria,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,15:58:55,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,16:00:23,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,16:02:07,O2.afternoon,1,1,1,4.25,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,16:03:30,O2.afternoon,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,16:03:54,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,16:04:10,O2.afternoon,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,16:06:04,O2.afternoon,1,1,1,5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,16:07:20,O2.afternoon,1,1,1,5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,16:08:59,O2.afternoon,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,16:10:37,O2.afternoon,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,16:12:00,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-01,Sun,Jan,16:17:06,O2.afternoon,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,16:17:52,O2.afternoon,1,1,1,5,Astoria,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,16:19:00,O2.afternoon,1,1,1,5,Hell's Kitchen,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,16:19:17,O2.afternoon,1,1,1,2.55,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,16:19:26,O2.afternoon,1,1,1,7.5,Lower Manhattan,Coffee,Cappuccino
+2023-01-01,Sun,Jan,16:20:07,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,16:22:07,O2.afternoon,1,1,1,2,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,16:22:38,O2.afternoon,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,16:25:28,O2.afternoon,1,1,1,2.5,Astoria,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,16:27:42,O2.afternoon,1,1,1,2.55,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,16:28:00,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,16:28:57,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,16:29:36,O2.afternoon,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,16:30:12,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-01,Sun,Jan,16:33:35,O2.afternoon,1,1,1,3.1,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,16:35:11,O2.afternoon,1,1,1,2,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,16:39:24,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,16:39:27,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,16:40:18,O2.afternoon,1,1,1,3.5,Astoria,Coffee,Ethiopia Lg
+2023-01-01,Sun,Jan,16:40:19,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,16:41:51,O2.afternoon,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,16:43:33,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,16:44:46,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,16:47:05,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,16:47:05,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Ginger Scone
+2023-01-01,Sun,Jan,16:48:31,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,16:49:19,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,16:49:19,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,16:49:38,O2.afternoon,1,1,1,2.5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,16:52:13,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,16:52:51,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,16:56:48,O2.afternoon,1,1,1,2,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,16:58:42,O2.afternoon,1,1,1,3.5,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,16:58:42,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,17:01:03,O3.evining,1,1,1,7.5,Lower Manhattan,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,17:01:31,O3.evining,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,17:03:21,O3.evining,1,1,1,2.5,Astoria,Tea,Earl Grey Rg
+2023-01-01,Sun,Jan,17:05:44,O3.evining,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,17:09:18,O3.evining,1,1,1,6,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,17:10:34,O3.evining,1,1,1,3.5,Astoria,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,17:10:35,O3.evining,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,17:11:58,O3.evining,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,17:13:17,O3.evining,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,17:16:17,O3.evining,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,17:17:19,O3.evining,1,1,1,8,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,17:17:22,O3.evining,1,1,1,2.2,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-01,Sun,Jan,17:18:36,O3.evining,1,1,1,2.5,Astoria,Coffee,Columbian Medium Roast Rg
+2023-01-01,Sun,Jan,17:19:08,O3.evining,1,1,1,4.9,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,17:19:08,O3.evining,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-01,Sun,Jan,17:19:11,O3.evining,1,1,1,8.5,Hell's Kitchen,Coffee,Latte Rg
+2023-01-01,Sun,Jan,17:19:28,O3.evining,1,1,1,4,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,17:19:49,O3.evining,1,1,1,6,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-01,Sun,Jan,17:19:49,O3.evining,1,1,1,4.5,Hell's Kitchen,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,17:20:02,O3.evining,1,1,1,5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,17:20:02,O3.evining,1,1,1,3,Hell's Kitchen,Bakery,Oatmeal Scone
+2023-01-01,Sun,Jan,17:22:36,O3.evining,1,1,1,3.75,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,17:23:03,O3.evining,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-01,Sun,Jan,17:23:04,O3.evining,1,1,1,4.25,Astoria,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,17:25:45,O3.evining,1,1,1,7,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-01,Sun,Jan,17:26:15,O3.evining,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,17:26:15,O3.evining,1,1,1,3.5,Hell's Kitchen,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,17:28:42,O3.evining,1,1,1,3,Lower Manhattan,Coffee,Espresso shot
+2023-01-01,Sun,Jan,17:28:42,O3.evining,1,1,1,3.25,Lower Manhattan,Bakery,Cranberry Scone
+2023-01-01,Sun,Jan,17:29:25,O3.evining,1,1,1,2.5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,17:29:25,O3.evining,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-01,Sun,Jan,17:34:47,O3.evining,1,1,1,5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,17:35:26,O3.evining,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,17:35:26,O3.evining,1,1,1,3.25,Astoria,Bakery,Hazelnut Biscotti
+2023-01-01,Sun,Jan,17:37:26,O3.evining,1,1,1,2.5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-01,Sun,Jan,17:40:50,O3.evining,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,17:41:55,O3.evining,1,1,1,8,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,17:41:55,O3.evining,1,1,1,3.75,Astoria,Bakery,Chocolate Croissant
+2023-01-01,Sun,Jan,17:43:49,O3.evining,1,1,1,5,Hell's Kitchen,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,17:44:28,O3.evining,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,17:44:28,O3.evining,1,1,1,3.5,Astoria,Bakery,Ginger Biscotti
+2023-01-01,Sun,Jan,17:44:48,O3.evining,1,1,1,2.45,Hell's Kitchen,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,17:45:21,O3.evining,1,1,1,3.5,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,17:46:21,O3.evining,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,17:46:21,O3.evining,1,1,1,3.5,Hell's Kitchen,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,17:49:04,O3.evining,1,1,1,7.5,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,17:50:19,O3.evining,1,1,1,3,Lower Manhattan,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,17:50:30,O3.evining,1,1,1,7.5,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,17:51:06,O3.evining,1,1,1,7.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,17:54:11,O3.evining,1,1,1,5.1,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,17:56:46,O3.evining,1,1,1,3,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,17:58:01,O3.evining,1,1,1,4.25,Lower Manhattan,Coffee,Latte Rg
+2023-01-01,Sun,Jan,17:59:44,O3.evining,1,1,1,6,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,17:59:44,O3.evining,1,1,1,3.5,Hell's Kitchen,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,18:01:08,O3.evining,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-01,Sun,Jan,18:02:00,O3.evining,1,1,1,2.5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,18:02:21,O3.evining,1,1,1,6,Lower Manhattan,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,18:03:13,O3.evining,1,1,1,2,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,18:03:13,O3.evining,1,1,1,4.5,Astoria,Bakery,Scottish Cream Scone 
+2023-01-01,Sun,Jan,18:04:34,O3.evining,1,1,1,2,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,18:06:52,O3.evining,1,1,1,6,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-01,Sun,Jan,18:06:52,O3.evining,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,18:07:13,O3.evining,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,18:08:53,O3.evining,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-01,Sun,Jan,18:12:37,O3.evining,1,1,1,4.4,Astoria,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,18:13:32,O3.evining,1,1,1,5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-01,Sun,Jan,18:13:41,O3.evining,1,1,1,6.2,Hell's Kitchen,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,18:14:28,O3.evining,1,1,1,6,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,18:17:09,O3.evining,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,18:18:10,O3.evining,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,18:19:45,O3.evining,1,1,1,2.5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-01,Sun,Jan,18:19:45,O3.evining,1,1,1,3.5,Lower Manhattan,Bakery,Chocolate Chip Biscotti
+2023-01-01,Sun,Jan,18:21:22,O3.evining,1,1,1,2.5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,18:22:12,O3.evining,1,1,1,9.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,18:22:48,O3.evining,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-01,Sun,Jan,18:22:53,O3.evining,1,1,1,3,Astoria,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,18:22:53,O3.evining,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-01,Sun,Jan,18:23:34,O3.evining,1,1,1,6,Lower Manhattan,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,18:25:51,O3.evining,1,1,1,4.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,18:25:57,O3.evining,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,18:27:08,O3.evining,1,1,1,5,Lower Manhattan,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,18:29:34,O3.evining,1,1,1,5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,18:30:05,O3.evining,1,1,1,8,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,18:34:56,O3.evining,1,1,1,7.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,18:39:29,O3.evining,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,18:40:29,O3.evining,1,1,1,6,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,18:41:13,O3.evining,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,18:41:28,O3.evining,1,1,1,6,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,18:42:04,O3.evining,1,1,1,7.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,18:42:16,O3.evining,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,18:43:19,O3.evining,1,1,1,3.1,Astoria,Tea,Spicy Eye Opener Chai Lg
+2023-01-01,Sun,Jan,18:43:42,O3.evining,1,1,1,2.2,Astoria,Coffee,Brazilian Sm
+2023-01-01,Sun,Jan,18:45:11,O3.evining,1,1,1,7.5,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,18:49:48,O3.evining,1,1,1,3.5,Astoria,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,18:51:23,O3.evining,1,1,1,6,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,18:51:41,O3.evining,1,1,1,2,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-01,Sun,Jan,18:52:18,O3.evining,1,1,1,4,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-01,Sun,Jan,18:52:57,O3.evining,1,1,1,9,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-01,Sun,Jan,18:55:19,O3.evining,1,1,1,5.1,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-01,Sun,Jan,18:56:24,O3.evining,1,1,1,6,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-01,Sun,Jan,18:56:35,O3.evining,1,1,1,8.5,Hell's Kitchen,Coffee,Latte Rg
+2023-01-01,Sun,Jan,18:56:35,O3.evining,1,1,1,3.75,Hell's Kitchen,Bakery,Almond Croissant
+2023-01-01,Sun,Jan,19:00:27,O3.evining,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,19:02:52,O3.evining,1,1,1,6,Hell's Kitchen,Coffee,Espresso shot
+2023-01-01,Sun,Jan,19:06:58,O3.evining,1,1,1,3.75,Hell's Kitchen,Coffee,Latte
+2023-01-01,Sun,Jan,19:07:26,O3.evining,1,1,1,6,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-01,Sun,Jan,19:07:40,O3.evining,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,19:08:11,O3.evining,1,1,1,7,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,19:08:56,O3.evining,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,19:09:54,O3.evining,1,1,1,4.25,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-01,Sun,Jan,19:10:16,O3.evining,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,19:10:53,O3.evining,1,1,1,8,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,19:12:49,O3.evining,1,1,1,7.5,Astoria,Coffee,Cappuccino
+2023-01-01,Sun,Jan,19:14:09,O3.evining,1,1,1,6,Astoria,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,19:15:15,O3.evining,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,19:21:35,O3.evining,1,1,1,3,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-01,Sun,Jan,19:22:39,O3.evining,1,1,1,3.75,Hell's Kitchen,Coffee,Cappuccino
+2023-01-01,Sun,Jan,19:24:18,O3.evining,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-01,Sun,Jan,19:24:18,O3.evining,1,1,1,3,Hell's Kitchen,Bakery,Oatmeal Scone
+2023-01-01,Sun,Jan,19:29:01,O3.evining,1,1,1,5,Astoria,Tea,Peppermint Rg
+2023-01-01,Sun,Jan,19:29:07,O3.evining,1,1,1,3.75,Astoria,Coffee,Latte
+2023-01-01,Sun,Jan,19:30:55,O3.evining,1,1,1,6,Astoria,Tea,Earl Grey Lg
+2023-01-01,Sun,Jan,19:34:03,O3.evining,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-01,Sun,Jan,19:34:39,O3.evining,1,1,1,9.5,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,19:34:48,O3.evining,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-01,Sun,Jan,19:35:55,O3.evining,1,1,1,7,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-01,Sun,Jan,19:37:51,O3.evining,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-01,Sun,Jan,19:38:46,O3.evining,1,1,1,8,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,19:39:00,O3.evining,1,1,1,6,Astoria,Tea,Serenity Green Tea Lg
+2023-01-01,Sun,Jan,19:39:32,O3.evining,1,1,1,3,Astoria,Coffee,Espresso shot
+2023-01-01,Sun,Jan,19:43:29,O3.evining,1,1,1,2.5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-01,Sun,Jan,19:44:41,O3.evining,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-01,Sun,Jan,19:45:28,O3.evining,1,1,1,3,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-01,Sun,Jan,19:49:37,O3.evining,1,1,1,3.75,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-01,Sun,Jan,19:52:47,O3.evining,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-01,Sun,Jan,19:57:56,O3.evining,1,1,1,3.1,Astoria,Coffee,Jamaican Coffee River Rg
+2023-01-01,Sun,Jan,19:58:29,O3.evining,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-01,Sun,Jan,19:58:52,O3.evining,1,1,1,4.25,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,07:01:59,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,07:12:05,O1.morning,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,07:16:35,O1.morning,1,1,1,4,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,07:16:46,O1.morning,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-02,Mon,Jan,07:16:46,O1.morning,1,1,1,3.25,Lower Manhattan,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,07:22:08,O1.morning,1,1,1,9.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,07:22:45,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,07:25:59,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,07:35:10,O1.morning,1,1,1,3,Lower Manhattan,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,07:48:26,O1.morning,1,1,1,4.25,Lower Manhattan,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,07:48:26,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-02,Mon,Jan,07:53:48,O1.morning,1,1,1,7,Lower Manhattan,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,07:59:47,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,07:59:47,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-02,Mon,Jan,08:03:47,O1.morning,1,1,1,6,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,08:04:06,O1.morning,1,1,1,4.4,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,08:04:55,O1.morning,1,1,1,2.2,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,08:04:59,O1.morning,1,1,1,4.75,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,08:09:46,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,08:09:51,O1.morning,1,1,1,4.75,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,08:11:11,O1.morning,1,1,1,9.5,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,08:11:11,O1.morning,1,1,1,3.5,Hell's Kitchen,Bakery,Ginger Biscotti
+2023-01-02,Mon,Jan,08:13:24,O1.morning,1,1,1,3.5,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,08:14:13,O1.morning,1,1,1,4,Lower Manhattan,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,08:15:07,O1.morning,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,08:15:10,O1.morning,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,08:17:28,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,08:20:38,O1.morning,1,1,1,5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,08:21:32,O1.morning,1,1,1,7.5,Hell's Kitchen,Coffee,Latte
+2023-01-02,Mon,Jan,08:23:15,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,08:25:22,O1.morning,1,1,1,2.2,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,08:26:13,O1.morning,1,1,1,4,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,08:26:21,O1.morning,1,1,1,4.4,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,08:30:10,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,08:31:35,O1.morning,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-02,Mon,Jan,08:34:25,O1.morning,1,1,1,4.4,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,08:34:30,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,08:43:50,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,08:51:31,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,08:55:40,O1.morning,1,1,1,2,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,09:00:14,O1.morning,1,1,1,4.25,Hell's Kitchen,Coffee,Latte Rg
+2023-01-02,Mon,Jan,09:01:24,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,09:06:29,O1.morning,1,1,1,3.5,Lower Manhattan,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,09:07:31,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-02,Mon,Jan,09:11:10,O1.morning,1,1,1,4.5,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,09:11:10,O1.morning,1,1,1,3.75,Hell's Kitchen,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,09:11:45,O1.morning,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,09:11:57,O1.morning,1,1,1,4.9,Hell's Kitchen,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,09:11:57,O1.morning,1,1,1,3.25,Hell's Kitchen,Bakery,Ginger Scone
+2023-01-02,Mon,Jan,09:12:47,O1.morning,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,09:12:47,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-02,Mon,Jan,09:17:08,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,09:21:01,O1.morning,1,1,1,4,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,09:22:26,O1.morning,1,1,1,3.75,Hell's Kitchen,Coffee,Cappuccino
+2023-01-02,Mon,Jan,09:25:27,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,09:26:16,O1.morning,1,1,1,4,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,09:29:47,O1.morning,1,1,1,4,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,09:29:47,O1.morning,1,1,1,3.25,Hell's Kitchen,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,09:31:37,O1.morning,1,1,1,9,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,09:33:57,O1.morning,1,1,1,5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,09:36:26,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,09:38:46,O1.morning,1,1,1,6,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,09:40:52,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,09:45:34,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,09:46:33,O1.morning,1,1,1,5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,09:48:46,O1.morning,1,1,1,6,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,09:50:09,O1.morning,1,1,1,3.5,Hell's Kitchen,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,09:50:57,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,09:52:17,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,09:54:48,O1.morning,1,1,1,2.45,Hell's Kitchen,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,09:56:28,O1.morning,1,1,1,8.5,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,09:56:45,O1.morning,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,09:58:47,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-02,Mon,Jan,10:01:57,O1.morning,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,10:03:39,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,10:03:39,O1.morning,1,1,1,3.5,Hell's Kitchen,Bakery,Chocolate Chip Biscotti
+2023-01-02,Mon,Jan,10:05:11,O1.morning,1,1,1,3.5,Lower Manhattan,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,10:05:22,O1.morning,1,1,1,4,Lower Manhattan,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,10:07:28,O1.morning,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,10:08:23,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,10:10:47,O1.morning,1,1,1,5.1,Hell's Kitchen,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,10:13:55,O1.morning,1,1,1,6,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,10:13:55,O1.morning,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,10:16:43,O1.morning,1,1,1,2,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,10:19:33,O1.morning,1,1,1,4.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,10:20:52,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,10:22:19,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,10:26:49,O1.morning,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,10:27:05,O1.morning,1,1,1,2.2,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,10:28:41,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,10:30:39,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,10:36:18,O1.morning,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,10:36:44,O1.morning,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,10:38:55,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,10:48:57,O1.morning,1,1,1,3,Lower Manhattan,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,10:49:58,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,10:55:08,O1.morning,1,1,1,4,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,10:55:35,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,10:59:58,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,11:01:06,O1.morning,1,1,1,5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,11:04:21,O1.morning,1,1,1,3.5,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,11:04:21,O1.morning,1,1,1,3.25,Astoria,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,11:06:10,O1.morning,1,1,1,3,Astoria,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,11:06:10,O1.morning,1,1,1,3,Astoria,Bakery,Oatmeal Scone
+2023-01-02,Mon,Jan,11:06:28,O1.morning,1,1,1,2.2,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,11:10:15,O1.morning,1,1,1,5,Hell's Kitchen,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,11:11:23,O1.morning,1,1,1,6,Astoria,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,11:12:05,O1.morning,1,1,1,4.25,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,11:12:33,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,11:13:01,O1.morning,1,1,1,4,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,11:13:37,O1.morning,1,1,1,2.5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,11:14:15,O1.morning,1,1,1,6,Astoria,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,11:15:12,O1.morning,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-02,Mon,Jan,11:15:28,O1.morning,1,1,1,3,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,11:15:40,O1.morning,1,1,1,2.5,Astoria,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,11:16:51,O1.morning,1,1,1,4.4,Astoria,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,11:16:51,O1.morning,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-02,Mon,Jan,11:18:12,O1.morning,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,11:18:25,O1.morning,1,1,1,5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,11:19:12,O1.morning,1,1,1,6,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,11:19:42,O1.morning,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-02,Mon,Jan,11:21:43,O1.morning,1,1,1,5,Astoria,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,11:21:49,O1.morning,1,1,1,7.5,Astoria,Coffee,Latte
+2023-01-02,Mon,Jan,11:22:46,O1.morning,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,11:25:20,O1.morning,1,1,1,5,Lower Manhattan,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,11:27:35,O1.morning,1,1,1,5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,11:32:11,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,11:34:44,O1.morning,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,11:35:02,O1.morning,1,1,1,3,Astoria,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,11:35:02,O1.morning,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,11:35:14,O1.morning,1,1,1,4.4,Astoria,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,11:35:14,O1.morning,1,1,1,3.25,Astoria,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,11:36:50,O1.morning,1,1,1,7,Lower Manhattan,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,11:38:23,O1.morning,1,1,1,6,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,11:39:11,O1.morning,1,1,1,5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,11:39:11,O1.morning,1,1,1,3.5,Lower Manhattan,Bakery,Ginger Biscotti
+2023-01-02,Mon,Jan,11:40:12,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-02,Mon,Jan,11:41:54,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,11:42:36,O1.morning,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-02,Mon,Jan,11:42:36,O1.morning,1,1,1,3.25,Hell's Kitchen,Bakery,Ginger Scone
+2023-01-02,Mon,Jan,11:43:04,O1.morning,1,1,1,6,Astoria,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,11:49:10,O1.morning,1,1,1,2.5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,11:50:18,O1.morning,1,1,1,3.5,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,11:50:32,O1.morning,1,1,1,3.5,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,11:53:48,O1.morning,1,1,1,5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,11:53:54,O1.morning,1,1,1,9,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,11:54:01,O1.morning,1,1,1,6,Lower Manhattan,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,11:54:30,O1.morning,1,1,1,3,Astoria,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,11:55:31,O1.morning,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,11:56:26,O1.morning,1,1,1,2,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,11:56:58,O1.morning,1,1,1,3,Hell's Kitchen,Coffee,Espresso shot
+2023-01-02,Mon,Jan,11:56:58,O1.morning,1,1,1,4.5,Hell's Kitchen,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,11:58:49,O1.morning,1,1,1,6.2,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-02,Mon,Jan,11:58:49,O1.morning,1,1,1,3.75,Hell's Kitchen,Bakery,Chocolate Croissant
+2023-01-02,Mon,Jan,12:01:50,O2.afternoon,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,12:03:47,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,12:06:18,O2.afternoon,1,1,1,3,Astoria,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,12:12:01,O2.afternoon,1,1,1,6,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,12:12:44,O2.afternoon,1,1,1,2.5,Astoria,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,12:14:00,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,12:18:13,O2.afternoon,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,12:18:22,O2.afternoon,1,1,1,4.4,Astoria,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,12:18:22,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,12:20:43,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,12:20:43,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Chocolate Croissant
+2023-01-02,Mon,Jan,12:21:38,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,12:21:39,O2.afternoon,1,1,1,3,Astoria,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,12:21:58,O2.afternoon,1,1,1,6,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,12:22:04,O2.afternoon,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,12:22:12,O2.afternoon,1,1,1,4,Lower Manhattan,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,12:22:12,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,12:23:03,O2.afternoon,1,1,1,2,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,12:23:30,O2.afternoon,1,1,1,3,Astoria,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,12:23:30,O2.afternoon,1,1,1,4.5,Astoria,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,12:24:39,O2.afternoon,1,1,1,7,Lower Manhattan,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,12:24:39,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,12:25:03,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,12:25:24,O2.afternoon,1,1,1,5.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,12:26:13,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,12:26:13,O2.afternoon,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,12:26:18,O2.afternoon,1,1,1,2,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,12:27:01,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,12:28:08,O2.afternoon,1,1,1,6,Astoria,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,12:28:25,O2.afternoon,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,12:29:07,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,12:30:43,O2.afternoon,1,1,1,5,Astoria,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,12:32:19,O2.afternoon,1,1,1,3.1,Hell's Kitchen,Tea,Spicy Eye Opener Chai Lg
+2023-01-02,Mon,Jan,12:33:04,O2.afternoon,1,1,1,6,Astoria,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,12:34:00,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,12:36:06,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,12:36:37,O2.afternoon,1,1,1,2.2,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,12:38:47,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,12:38:51,O2.afternoon,1,1,1,2.55,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,12:39:04,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,12:41:28,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,12:42:19,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,12:42:47,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,12:45:02,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,12:46:04,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,12:47:49,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,12:53:16,O2.afternoon,1,1,1,4,Hell's Kitchen,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,12:54:07,O2.afternoon,1,1,1,3.5,Lower Manhattan,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,12:54:07,O2.afternoon,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-02,Mon,Jan,12:54:53,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,12:55:19,O2.afternoon,1,1,1,2.5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,12:57:55,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,12:58:04,O2.afternoon,1,1,1,6,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,12:58:38,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,12:58:57,O2.afternoon,1,1,1,3.1,Hell's Kitchen,Coffee,Jamaican Coffee River Rg
+2023-01-02,Mon,Jan,12:59:28,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,12:59:45,O2.afternoon,1,1,1,6,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,13:02:03,O2.afternoon,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,13:03:14,O2.afternoon,1,1,1,7.5,Hell's Kitchen,Coffee,Cappuccino
+2023-01-02,Mon,Jan,13:03:14,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Bakery,Chocolate Chip Biscotti
+2023-01-02,Mon,Jan,13:03:33,O2.afternoon,1,1,1,4,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,13:03:53,O2.afternoon,1,1,1,4,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,13:04:02,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,13:04:56,O2.afternoon,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,13:05:41,O2.afternoon,1,1,1,4.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,13:09:27,O2.afternoon,1,1,1,3,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,13:09:27,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,13:10:17,O2.afternoon,1,1,1,3.5,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,13:10:17,O2.afternoon,1,1,1,4.5,Hell's Kitchen,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,13:10:41,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,13:14:54,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,13:15:40,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,13:21:09,O2.afternoon,1,1,1,5,Astoria,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,13:21:23,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,13:23:18,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,13:23:38,O2.afternoon,1,1,1,2.5,Astoria,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,13:24:33,O2.afternoon,1,1,1,4.4,Astoria,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,13:25:02,O2.afternoon,1,1,1,3.1,Hell's Kitchen,Tea,Spicy Eye Opener Chai Lg
+2023-01-02,Mon,Jan,13:26:47,O2.afternoon,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,13:28:24,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,13:29:51,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Latte
+2023-01-02,Mon,Jan,13:29:59,O2.afternoon,1,1,1,2.55,Astoria,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,13:30:00,O2.afternoon,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,13:30:00,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Chocolate Chip Biscotti
+2023-01-02,Mon,Jan,13:30:05,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,13:30:15,O2.afternoon,1,1,1,3,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,13:30:30,O2.afternoon,1,1,1,8.5,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,13:30:30,O2.afternoon,1,1,1,2.2,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,13:34:02,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,13:35:24,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,13:35:24,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,13:39:11,O2.afternoon,1,1,1,5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,13:40:11,O2.afternoon,1,1,1,4.25,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,13:40:36,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,13:40:53,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,13:40:53,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,13:42:07,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,13:47:24,O2.afternoon,1,1,1,2,Astoria,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,13:47:27,O2.afternoon,1,1,1,9,Hell's Kitchen,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,13:48:27,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,13:48:27,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Bakery,Almond Croissant
+2023-01-02,Mon,Jan,13:51:33,O2.afternoon,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,13:51:33,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,13:52:27,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,13:53:04,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,13:53:04,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,13:55:38,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,13:55:38,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Bakery,Chocolate Croissant
+2023-01-02,Mon,Jan,13:56:19,O2.afternoon,1,1,1,4.25,Lower Manhattan,Coffee,Latte Rg
+2023-01-02,Mon,Jan,13:57:59,O2.afternoon,1,1,1,7.5,Hell's Kitchen,Coffee,Latte
+2023-01-02,Mon,Jan,13:58:30,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,13:58:36,O2.afternoon,1,1,1,4.25,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,14:01:23,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,14:02:16,O2.afternoon,1,1,1,4.4,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,14:02:44,O2.afternoon,1,1,1,4,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,14:03:27,O2.afternoon,1,1,1,4.5,Astoria,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,14:05:27,O2.afternoon,1,1,1,2.55,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,14:05:27,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-02,Mon,Jan,14:07:17,O2.afternoon,1,1,1,3,Astoria,Coffee,Espresso shot
+2023-01-02,Mon,Jan,14:07:49,O2.afternoon,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,14:08:49,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-02,Mon,Jan,14:11:08,O2.afternoon,1,1,1,2,Lower Manhattan,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,14:12:00,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,14:12:07,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,14:12:35,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,14:12:35,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Ginger Scone
+2023-01-02,Mon,Jan,14:13:26,O2.afternoon,1,1,1,4,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,14:13:37,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,14:14:26,O2.afternoon,1,1,1,7,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,14:17:08,O2.afternoon,1,1,1,2.5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,14:17:55,O2.afternoon,1,1,1,9.5,Astoria,Drinking Chocolate,Sustainably Grown Organic Lg
+2023-01-02,Mon,Jan,14:17:55,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Croissant
+2023-01-02,Mon,Jan,14:19:24,O2.afternoon,1,1,1,3,Astoria,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,14:21:55,O2.afternoon,1,1,1,8.5,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,14:24:46,O2.afternoon,1,1,1,3,Astoria,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,14:25:35,O2.afternoon,1,1,1,2.2,Hell's Kitchen,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,14:26:33,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,14:29:35,O2.afternoon,1,1,1,6,Astoria,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,14:29:35,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Chocolate Croissant
+2023-01-02,Mon,Jan,14:33:26,O2.afternoon,1,1,1,2,Astoria,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,14:33:58,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Espresso shot
+2023-01-02,Mon,Jan,14:34:53,O2.afternoon,1,1,1,2.5,Astoria,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,14:36:56,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,14:37:44,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,14:39:18,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,14:40:25,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Cappuccino
+2023-01-02,Mon,Jan,14:42:21,O2.afternoon,1,1,1,3,Astoria,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,14:42:21,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Ginger Scone
+2023-01-02,Mon,Jan,14:44:28,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,14:46:31,O2.afternoon,1,1,1,5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,14:48:02,O2.afternoon,1,1,1,7,Lower Manhattan,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,14:48:05,O2.afternoon,1,1,1,4.25,Lower Manhattan,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,14:48:53,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,14:51:11,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,14:52:26,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,14:52:26,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Chocolate Chip Biscotti
+2023-01-02,Mon,Jan,14:54:33,O2.afternoon,1,1,1,6,Astoria,Coffee,Espresso shot
+2023-01-02,Mon,Jan,14:54:40,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,14:54:46,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,14:55:38,O2.afternoon,1,1,1,7.5,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,14:58:21,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,14:58:28,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,14:59:08,O2.afternoon,1,1,1,3,Hell's Kitchen,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,15:03:12,O2.afternoon,1,1,1,6,Astoria,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,15:03:12,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Almond Croissant
+2023-01-02,Mon,Jan,15:04:21,O2.afternoon,1,1,1,5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,15:05:22,O2.afternoon,1,1,1,3.5,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,15:05:22,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,15:09:48,O2.afternoon,1,1,1,4.4,Lower Manhattan,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,15:10:48,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,15:12:44,O2.afternoon,1,1,1,2.5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,15:15:03,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-02,Mon,Jan,15:15:03,O2.afternoon,1,1,1,3,Astoria,Bakery,Oatmeal Scone
+2023-01-02,Mon,Jan,15:18:41,O2.afternoon,1,1,1,4.5,Lower Manhattan,Drinking Chocolate,Dark chocolate Lg
+2023-01-02,Mon,Jan,15:19:46,O2.afternoon,1,1,1,3,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,15:21:45,O2.afternoon,1,1,1,6,Astoria,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,15:22:19,O2.afternoon,1,1,1,4,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,15:23:29,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-02,Mon,Jan,15:24:16,O2.afternoon,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,15:24:52,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,15:26:08,O2.afternoon,1,1,1,2.5,Astoria,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,15:26:22,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,15:26:22,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,15:27:43,O2.afternoon,1,1,1,3.5,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,15:27:48,O2.afternoon,1,1,1,4.25,Astoria,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,15:28:35,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Ouro Brasileiro shot
+2023-01-02,Mon,Jan,15:29:31,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,15:30:51,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Cappuccino
+2023-01-02,Mon,Jan,15:32:44,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Peppermint Lg
+2023-01-02,Mon,Jan,15:34:44,O2.afternoon,1,1,1,4.9,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,15:35:22,O2.afternoon,1,1,1,3,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,15:35:22,O2.afternoon,1,1,1,3.25,Hell's Kitchen,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,15:35:30,O2.afternoon,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,15:35:30,O2.afternoon,1,1,1,3.25,Lower Manhattan,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,15:36:29,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,15:36:47,O2.afternoon,1,1,1,5,Astoria,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,15:37:20,O2.afternoon,1,1,1,7,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,15:37:20,O2.afternoon,1,1,1,3.25,Hell's Kitchen,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,15:38:44,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,15:41:09,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,15:41:09,O2.afternoon,1,1,1,3.25,Hell's Kitchen,Bakery,Hazelnut Biscotti
+2023-01-02,Mon,Jan,15:41:55,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,15:41:55,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Ginger Biscotti
+2023-01-02,Mon,Jan,15:42:50,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,15:44:59,O2.afternoon,1,1,1,5,Astoria,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,15:48:55,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,15:48:55,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Almond Croissant
+2023-01-02,Mon,Jan,15:49:27,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,15:49:27,O2.afternoon,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,15:50:12,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,15:50:12,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,15:50:27,O2.afternoon,1,1,1,6,Lower Manhattan,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,15:50:28,O2.afternoon,1,1,1,5,Hell's Kitchen,Tea,Serenity Green Tea Rg
+2023-01-02,Mon,Jan,15:51:29,O2.afternoon,1,1,1,2.45,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,15:51:57,O2.afternoon,1,1,1,7.5,Lower Manhattan,Coffee,Latte
+2023-01-02,Mon,Jan,15:52:14,O2.afternoon,1,1,1,4.9,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,15:52:58,O2.afternoon,1,1,1,2.55,Hell's Kitchen,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,15:54:43,O2.afternoon,1,1,1,4,Hell's Kitchen,Coffee,Columbian Medium Roast Sm
+2023-01-02,Mon,Jan,15:55:19,O2.afternoon,1,1,1,4,Lower Manhattan,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,15:55:19,O2.afternoon,1,1,1,3.75,Lower Manhattan,Bakery,Jumbo Savory Scone
+2023-01-02,Mon,Jan,15:55:27,O2.afternoon,1,1,1,5.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Rg
+2023-01-02,Mon,Jan,15:56:41,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,15:58:07,O2.afternoon,1,1,1,5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,15:59:37,O2.afternoon,1,1,1,3.5,Astoria,Drinking Chocolate,Dark chocolate Rg
+2023-01-02,Mon,Jan,15:59:53,O2.afternoon,1,1,1,6,Astoria,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,16:00:33,O2.afternoon,1,1,1,6,Astoria,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,16:00:33,O2.afternoon,1,1,1,4.5,Astoria,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,16:02:09,O2.afternoon,1,1,1,3.75,Lower Manhattan,Coffee,Cappuccino
+2023-01-02,Mon,Jan,16:02:21,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Peppermint Rg
+2023-01-02,Mon,Jan,16:05:18,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,16:06:01,O2.afternoon,1,1,1,4.9,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,16:06:18,O2.afternoon,1,1,1,4.25,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,16:08:22,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,16:09:17,O2.afternoon,1,1,1,4.25,Astoria,Coffee,Latte Rg
+2023-01-02,Mon,Jan,16:09:45,O2.afternoon,1,1,1,6,Astoria,Tea,Peppermint Lg
+2023-01-02,Mon,Jan,16:11:04,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Cappuccino
+2023-01-02,Mon,Jan,16:11:57,O2.afternoon,1,1,1,6,Hell's Kitchen,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,16:12:01,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Serenity Green Tea Lg
+2023-01-02,Mon,Jan,16:14:09,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Columbian Medium Roast Lg
+2023-01-02,Mon,Jan,16:14:09,O2.afternoon,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,16:18:15,O2.afternoon,1,1,1,6,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,16:19:33,O2.afternoon,1,1,1,3.75,Astoria,Coffee,Latte
+2023-01-02,Mon,Jan,16:19:48,O2.afternoon,1,1,1,7.5,Lower Manhattan,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,16:19:48,O2.afternoon,1,1,1,4.5,Lower Manhattan,Bakery,Scottish Cream Scone 
+2023-01-02,Mon,Jan,16:22:25,O2.afternoon,1,1,1,2.5,Astoria,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,16:22:30,O2.afternoon,1,1,1,7,Astoria,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,16:23:50,O2.afternoon,1,1,1,3,Lower Manhattan,Coffee,Brazilian Rg
+2023-01-02,Mon,Jan,16:26:14,O2.afternoon,1,1,1,4,Astoria,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,16:26:38,O2.afternoon,1,1,1,2.2,Astoria,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,16:26:38,O2.afternoon,1,1,1,3.75,Astoria,Bakery,Almond Croissant
+2023-01-02,Mon,Jan,16:26:49,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,16:28:26,O2.afternoon,1,1,1,3.75,Hell's Kitchen,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,16:30:05,O2.afternoon,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,16:30:07,O2.afternoon,1,1,1,3,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,16:30:07,O2.afternoon,1,1,1,3.5,Astoria,Bakery,Ginger Biscotti
+2023-01-02,Mon,Jan,16:30:37,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,16:31:20,O2.afternoon,1,1,1,7.5,Astoria,Coffee,Jamaican Coffee River Lg
+2023-01-02,Mon,Jan,16:31:48,O2.afternoon,1,1,1,2.5,Hell's Kitchen,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,16:32:14,O2.afternoon,1,1,1,5,Astoria,Tea,Traditional Blend Chai Rg
+2023-01-02,Mon,Jan,16:32:25,O2.afternoon,1,1,1,5,Lower Manhattan,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,16:33:17,O2.afternoon,1,1,1,3.1,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-02,Mon,Jan,16:33:17,O2.afternoon,1,1,1,3.5,Lower Manhattan,Bakery,Croissant
+2023-01-02,Mon,Jan,16:34:50,O2.afternoon,1,1,1,2.5,Lower Manhattan,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,16:35:22,O2.afternoon,1,1,1,2.2,Astoria,Coffee,Ethiopia Sm
+2023-01-02,Mon,Jan,16:35:22,O2.afternoon,1,1,1,5,Astoria,Tea,Morning Sunrise Chai Rg
+2023-01-02,Mon,Jan,16:35:54,O2.afternoon,1,1,1,6,Hell's Kitchen,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,16:36:38,O2.afternoon,1,1,1,3,Astoria,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,16:41:26,O2.afternoon,1,1,1,4,Lower Manhattan,Coffee,Our Old Time Diner Blend Sm
+2023-01-02,Mon,Jan,16:42:11,O2.afternoon,1,1,1,6,Astoria,Tea,Earl Grey Lg
+2023-01-02,Mon,Jan,16:42:33,O2.afternoon,1,1,1,2.45,Lower Manhattan,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,16:42:33,O2.afternoon,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-02,Mon,Jan,16:43:04,O2.afternoon,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,16:44:55,O2.afternoon,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,16:47:01,O2.afternoon,1,1,1,2.5,Astoria,Tea,English Breakfast Rg
+2023-01-02,Mon,Jan,16:49:41,O2.afternoon,1,1,1,3,Astoria,Tea,English Breakfast Lg
+2023-01-02,Mon,Jan,16:50:14,O2.afternoon,1,1,1,2.2,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,16:51:09,O2.afternoon,1,1,1,4.9,Astoria,Coffee,Jamaican Coffee River Sm
+2023-01-02,Mon,Jan,16:51:09,O2.afternoon,1,1,1,3.25,Astoria,Bakery,Ginger Scone
+2023-01-02,Mon,Jan,16:55:58,O2.afternoon,1,1,1,6,Astoria,Coffee,Our Old Time Diner Blend Lg
+2023-01-02,Mon,Jan,16:56:14,O2.afternoon,1,1,1,4.25,Hell's Kitchen,Coffee,Cappuccino Lg
+2023-01-02,Mon,Jan,16:59:09,O2.afternoon,1,1,1,2.5,Lower Manhattan,Coffee,Our Old Time Diner Blend Rg
+2023-01-02,Mon,Jan,17:00:52,O3.evining,1,1,1,2.2,Hell's Kitchen,Coffee,Brazilian Sm
+2023-01-02,Mon,Jan,17:02:06,O3.evining,1,1,1,2.5,Hell's Kitchen,Tea,Earl Grey Rg
+2023-01-02,Mon,Jan,17:02:59,O3.evining,1,1,1,5,Lower Manhattan,Coffee,Columbian Medium Roast Rg
+2023-01-02,Mon,Jan,17:02:59,O3.evining,1,1,1,3,Lower Manhattan,Bakery,Oatmeal Scone
+2023-01-02,Mon,Jan,17:04:56,O3.evining,1,1,1,3.75,Astoria,Drinking Chocolate,Sustainably Grown Organic Rg
+2023-01-02,Mon,Jan,17:10:24,O3.evining,1,1,1,8,Hell's Kitchen,Tea,Morning Sunrise Chai Lg
+2023-01-02,Mon,Jan,17:10:36,O3.evining,1,1,1,3.5,Hell's Kitchen,Coffee,Ethiopia Lg
+2023-01-02,Mon,Jan,17:12:45,O3.evining,1,1,1,5,Astoria,Tea,Lemon Grass Rg
+2023-01-02,Mon,Jan,17:13:53,O3.evining,1,1,1,3,Hell's Kitchen,Tea,Lemon Grass Lg
+2023-01-02,Mon,Jan,17:15:28,O3.evining,1,1,1,7,Lower Manhattan,Coffee,Brazilian Lg
+2023-01-02,Mon,Jan,17:15:35,O3.evining,1,1,1,6.2,Lower Manhattan,Tea,Spicy Eye Opener Chai Lg
+2023-01-02,Mon,Jan,17:17:00,O3.evining,1,1,1,6,Astoria,Tea,Traditional Blend Chai Lg
+2023-01-02,Mon,Jan,17:17:00,O3.evining,1,1,1,3.25,Astoria,Bakery,Cranberry Scone
+2023-01-02,Mon,Jan,17:18:25,O3.evining,1,1,1,6,Lower Manhattan,Coffee,Ethiopia Rg
+2023-01-02,Mon,Jan,17:19:03,O3.evining,1,1,1,2.5,Hell's Kitchen,Tea,Morning Sunrise Chai Rg
